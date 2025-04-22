@@ -25,3 +25,5 @@ Algoritma genetika banyak diterapkan untuk:
 <li><b>Crossover (Pindahsilang): </b>Proses pertukaran bagian kromosom antara dua induk untuk menghasilkan keturunan.</li>
 
 <li><b>Mutasi: </b>Perubahan acak pada gen (bagian dari kromosom) untuk menjaga keberagaman genetik.</li>
+ <br>
+Link IPYNB:<a href="https://github.com/annaamikom/Algoritma-Genetika/blob/main/Algoritma_genetika_penjadwalan.ipynb"> Algoritma_genetika_penjadwalan.ipynb</a>
