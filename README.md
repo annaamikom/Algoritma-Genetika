@@ -1,0 +1,1 @@
+<b>Algoritma Genetika (Genetic Algorithm/GA)<b> adalah metode pencarian dan optimasi yang terinspirasi dari mekanisme evolusi biologis, khususnya prinsip seleksi alam dan genetika. Diperkenalkan oleh John Holland pada tahun 1970-an, algoritma ini meniru proses evolusi melalui representasi solusi sebagai kromosom dan proses seleksi, crossover (rekombinasi), dan mutasi.
